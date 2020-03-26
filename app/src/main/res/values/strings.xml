@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">lab5</string>
+    <string name="defaultName">James Taylor</string>
+    <string name="defaultSavedName">James Taylor</string>
+    <string name="nameLabel">Name</string>
+    <string name="newNameLabel">New Name: </string>
+    <string name="saveButton"> Save </string>
+
+
+
+</resources>
